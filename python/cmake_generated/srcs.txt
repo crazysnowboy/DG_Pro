@@ -1,1 +1,1 @@
-/home/collin/Documents/MyProjects/AAAAAA/face/AAA/DG_Pro/src/cpp/HarmonicMapper/HarmonicMapper.cpp 
+/home/collin/Documents/MyProjects/AAAAAA/face/AAA/DG_Pro/src/cpp/bmp/RgbImage.cpp /home/collin/Documents/MyProjects/AAAAAA/face/AAA/DG_Pro/src/cpp/HarmonicMapper/HarmonicMapper.cpp 

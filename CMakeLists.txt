@@ -20,7 +20,7 @@ include(cmake/MyConfigure.cmake)
 include(cmake/ConfigureOpengl.cmake)
 #include(cmake/FindEigen3.cmake)
 
-#set(CMAKE_BUILD_TYPE Release) # 等同于 cmake -DCMAKE_BUILD_TYPE=release
+set(CMAKE_BUILD_TYPE Release) # 等同于 cmake -DCMAKE_BUILD_TYPE=release
 #set(CMAKE_VERBOSE_MAKEFILE 1)
 
 
