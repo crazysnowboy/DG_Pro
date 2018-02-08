@@ -1,4 +1,4 @@
-# MeshPro v2
+# DG_Pro
 1. mkdir build
 2. ./run.sh
 
